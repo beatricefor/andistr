@@ -21,7 +21,7 @@ You can install the development version of andistr from
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("beatricefor/andistr")
+devtools::install_github("beatriceforoni/andistr")
 ```
 
 ## Example
